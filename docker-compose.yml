@@ -1,0 +1,8 @@
+version: '3'
+services:
+  python:
+    build: .
+    container_name: kq-backend
+    command: "flask --app app run --host 0.0.0.0 --debug"
+    ports:
+      - 9000:5000
