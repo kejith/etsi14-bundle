@@ -7,7 +7,7 @@ To get started with the demo, follow these steps:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/kejith/etsi14.git
+    git clone https://github.com/kejith/etsi14-bundle.git
     ```
 
 2. Initialize the submodule:
