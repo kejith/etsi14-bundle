@@ -22,7 +22,7 @@ To get started with the demo, follow these steps:
     docker-compose up
     ```
 
-This will start the demo application and you can access it by visiting http://localhost:9000 in your web browser. 
+This will start the demo application and you can access it by visiting http://localhost/ in your web browser. A live demo is available on http://178.254.28.176/ 
 
 ## Environment Variables
 
